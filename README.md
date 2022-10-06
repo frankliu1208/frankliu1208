@@ -3,8 +3,9 @@
 <!--
 **frankliu1208/frankliu1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
 - 🔭 &nbsp; I’m currently working on learning new stuffs regarding coding
 - 🌱 &nbsp; I’m currently learning Springboot
@@ -39,12 +40,14 @@ Here are some ideas to get you started:
 
 ### 📊 Github Stats
 
-
+<a href='https://github.com/frankliu1208/github-stats-transparent'>
 ![](https://raw.githubusercontent.com/frankliu1208/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/frankliu1208/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/frankliu1208/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/frankliu1208/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  
+ </a>
 
-<br>
+
 

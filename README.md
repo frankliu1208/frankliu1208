@@ -9,7 +9,7 @@
 
 - 🔭 &nbsp; I’m currently working on learning new stuffs regarding coding
 - 🌱 &nbsp; I’m currently learning Springboot
-- 👯 &nbsp; I’m looking to collaborate on exchanging the great idea about the advancement of repidly-developed technologies
+- 👯 &nbsp; I’m looking to collaborate on exchanging the great idea about rapidly-developed technologies
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/frankliu1208?tab=repositories)
 - 🤔 &nbsp; I’m looking for help with learning German, it is amazing becuase master a new language means opening a door to a new culture
 - 💬 &nbsp; Ask me about the new technology because I am really interested
